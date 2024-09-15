@@ -92,7 +92,7 @@ def main():
                 print("输入无效，输入(1-110)或'end'结束")
                 continue
 
-            if mistake_number < 0 or mistake_number > 110:
+            if mistake_number < 0 or mistake_number > 120:
                 print("输错了，别逗")
                 continue
 
